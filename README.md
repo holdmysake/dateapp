@@ -1,4 +1,4 @@
-Simple date console app that for 05.03.2022 has 3 functions:__ 
+Simple date console app that for 05.03.2022 has 3 functions:</br>
 👀 Show actual date__
 👀 Add days, hours and minutes to date__
 👀 Substract days, hours and minutes to date__
